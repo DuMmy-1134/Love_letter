@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Love';
+    src: url(KingsmanDemo-1GVgg.ttf);
+}
+body {
+    background-color:#F5EDED;
+}
+.title {
+    justify-content: center;
+    font-size: 34px;
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+}
+span {
+    font-size: 68px;
+    font-weight: 400;}
+
+#main {
+    margin-top: 0;
+}
+p {
+    line-height: 1.3;
+    margin-top: 20px;
+}
+.letter {
+    margin: auto;
+    text-align: center;
+    width: 700px;
+    font-family: "Tangerine", cursive;
+  font-weight: 1000;
+  font-style: normal;
+  font-size: 40px;
+  }
+
+#paragraph {
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    font-family: 'Love', sans-serif;
+    font-size: 45px;
+    position: relative
+}
+img {
+    width:200px;
+    height: 200px;
+    position: absolute;
+}
+.sec {
+    position: absolute;
+}
+.third {
+    width: 200px;
+    margin-right: 0;
+    margin-left: 1000px;
+}
+h4 {
+    text-align: center;
+    margin: auto;
+    font: 500;
+    font-size: 40px;
+    font-family: "Love", sans-serif;
+}

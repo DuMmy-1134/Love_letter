@@ -1,0 +1,1 @@
+let firsr_element = document.getElementById("main_card")
